@@ -19,4 +19,4 @@ Magnus Ahlin
 Please download my iPhone app PriceJackr.com when it gets released :)
 
 
-<a href="https://www.clubbable.com">Clubbable / The VIP nightlife app</a>
+https://www.clubbable.com / The VIP nightlife app
